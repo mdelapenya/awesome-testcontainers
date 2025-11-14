@@ -16,20 +16,21 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 1. [Featured Modules](#featured-modules)
 2. [Languages](#languages)
 3. [Testcontainers and AI/LLM](#testcontainers-and-aillm)
-4. [Testcontainers and CI/CD](#testcontainers-and-cicd)
-5. [Testcontainers Cloud](#testcontainers-cloud)
-6. [Testcontainers Desktop](#testcontainers-desktop)
-7. [Testcontainers and C/C++/Swift](#testcontainers-and-ccswift)
-8. [Testcontainers and Kubernetes](#testcontainers-and-kubernetes)
-9. [Testcontainers and .NET](#testcontainers-and-net)
-10. [Testcontainers and Go](#testcontainers-and-go)
-11. [Testcontainers and PHP](#testcontainers-and-php)
-12. [Testcontainers and Spring](#testcontainers-and-spring)
-13. [Integrations](#integrations)
-14. [Blogs](#blogs)
-15. [Developer Stories](#developer-stories)
-16. [Featured Videos](#featured-videos)
-17. [Community](#community)
+4. [Coding Agents](#coding-agents)
+5. [Testcontainers and CI/CD](#testcontainers-and-cicd)
+6. [Testcontainers Cloud](#testcontainers-cloud)
+7. [Testcontainers Desktop](#testcontainers-desktop)
+8. [Testcontainers and C/C++/Swift](#testcontainers-and-ccswift)
+9. [Testcontainers and Kubernetes](#testcontainers-and-kubernetes)
+10. [Testcontainers and .NET](#testcontainers-and-net)
+11. [Testcontainers and Go](#testcontainers-and-go)
+12. [Testcontainers and PHP](#testcontainers-and-php)
+13. [Testcontainers and Spring](#testcontainers-and-spring)
+14. [Integrations](#integrations)
+15. [Blogs](#blogs)
+16. [Developer Stories](#developer-stories)
+17. [Featured Videos](#featured-videos)
+18. [Community](#community)
 
 
 ## Featured Modules
@@ -89,6 +90,10 @@ Discover official and community modules from the [Modules Catalog](https://testc
 - [How to Run Hugging Face Models Programmatically Using Ollama and Testcontainers](https://www.docker.com/blog/how-to-run-hugging-face-models-programmatically-using-ollama-and-testcontainers/)
 - [A Promising Methodology for Testing GenAI Applications in Java](https://www.docker.com/blog/testing-genai-applications-in-java/)
 - [Generative AI : How to run a LLM with Python — Testcontainers and Ollama](https://towardsdev.com/testing-llms-and-prompts-using-testcontainers-and-ollama-in-python-81e8f7c18be7)
+
+## Coding Agents
+
+- [Claude Skills for Testcontainers](https://github.com/testcontainers/claude-skills)
 
 ## Testcontainers and CI/CD
 
